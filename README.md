@@ -5,6 +5,6 @@
 ## [프로젝트 세부사항 (Notion)](https://iris-kilometer-1d6.notion.site/ca5fa78514814a40af05c8278d128170)
 
 ## 프로젝트 요약
-- 주제 : 가사 기반으로 노래별 카테고리를 분류할 수 있는 모델 구현
+- 주제 : 가사 기반으로 노래별 카테고리를 분류할 수 있는 머신러닝 모델 구현
 - 기술 키워드 : Text Mining, Web Crawling, Regular Expression, Machine Learning, NLP, Tokenization, Vectorization, Data Preprocessing
 
